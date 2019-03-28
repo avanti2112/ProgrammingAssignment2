@@ -1,10 +1,3 @@
-## Write a short comment describing this function
-
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ##Function 'makeCacheMatrix' will cache the inverse of Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
